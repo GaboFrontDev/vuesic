@@ -1,6 +1,3 @@
-# cursomusic
-
-> Mi curso inicial en vue.js!
 
 ## Build Setup
 
